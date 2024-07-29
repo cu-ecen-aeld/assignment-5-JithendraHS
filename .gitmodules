@@ -4,3 +4,4 @@
 [submodule "buildroot"]
 	path = buildroot
 	url = git@github.com:buildroot/buildroot.git
+	branch = 2022.02.x
